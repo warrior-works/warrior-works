@@ -1,7 +1,7 @@
 <div align="center">                                                                                                
 <h4 align="center">The Private Reserve — Premium builds by <a href="https://www.devdisplay.org/profile/codeaashu"><strong>codeaashu</strong></a><br><br>
 <img src="./WW-Branding/WWICON.png" width="100px" />
-<h1 align="center">Warrior Works<br><p align="center"><sub>Built for Battle – Designed to Dominate – Crafted to Conquer</sub></p></h1>  
+<h1 align="center">Warrior Works<br><p align="center"><sub><sub>Built for Battle – Designed to Dominate – Crafted to Conquer</sub></sub></p></h1>  
 
 
 
