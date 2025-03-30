@@ -8,7 +8,7 @@ Built for Battle – Designed to Dominate – Crafted to Conquer
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2300">
   <h1 align="center">Warrior Works</h1>
-  <img src="./public/Helpmate-AI.png" width="100px" />
+  <img src="./WW-Branding/WWICON.png" width="100px" />
   <br><a href="https://helpmate-ai.vercel.app/"><strong>HELPMATE   AI</strong></a>
   <h4 align="center">✦ Let's take help with your AI mate! ✦</h4>
   <a href="https://ai.google.dev/competition/projects/helpmate-ai"><strong>Click here to vote our APP</strong></a></br>
