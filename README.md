@@ -1,18 +1,14 @@
-<h4 align="center"><a href="https://github.com/codeaashu"><div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="75" height="75" /></div></a><br><a href="https://www.devdisplay.org/profile/codeaashu"><strong>codeaashu</strong></a><br><br>
-
-<h4 align="center">The Private Reserve — Premium builds by <a href="https://www.devdisplay.org/profile/codeaashu"><strong>codeaashu</strong></a><br><br>
-	
-Warrior Works
-Built for Battle – Designed to Dominate – Crafted to Conquer
-
-The Private Reserve — Premium builds by
+<h4 align="center"><a href="https://github.com/codeaashu"><div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="75" height="75" /></div></a><br>
 
 <div align="center">                                                                                                
-
+<h4 align="center">The Private Reserve — Premium builds by <a href="https://www.devdisplay.org/profile/codeaashu"><strong>codeaashu</strong></a><br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2300">
   <h1 align="center">Warrior Works</h1>
   <img src="./WW-Branding/WWICON.png" width="100px" />
-  <br><a href="https://helpmate-ai.vercel.app/"><strong>HELPMATE   AI</strong></a>
+  
+  `Built for Battle – Designed to Dominate – Crafted to Conquer`
+  
+  <br><a href="https://helpmate-ai.vercel.app/"><strong>Built for Battle – Designed to Dominate – Crafted to Conquer</strong></a>
   <h4 align="center">✦ Let's take help with your AI mate! ✦</h4>
   <a href="https://ai.google.dev/competition/projects/helpmate-ai"><strong>Click here to vote our APP</strong></a></br>
   
