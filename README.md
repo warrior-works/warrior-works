@@ -1,8 +1,8 @@
 <div align="center">                                                                                                
 <h4 align="center">The Private Reserve — Premium builds by <a href="https://www.devdisplay.org/profile/codeaashu"><strong>codeaashu</strong></a><br><br>
 <img src="./WW-Branding/WWICON.png" width="100px" />
-<h1 align="center">Warrior Works</h1>
-<h4 align="center">✦ Built for Battle – Designed to Dominate – Crafted to Conquer ✦</h4>
+<h1 align="center">Warrior Works</h1><br>Built for Battle – Designed to Dominate – Crafted to Conquer</h1>
+<h3 align="center"> Built for Battle – Designed to Dominate – Crafted to Conquer </h3>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=codeaashu&theme=react-dark&hide_border=true&area=true)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2300">
